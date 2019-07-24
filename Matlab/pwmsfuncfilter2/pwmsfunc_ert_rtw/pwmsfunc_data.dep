@@ -1,0 +1,50 @@
+pwmsfunc_data.o: pwmsfunc_data.c pwmsfunc.h rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018a/simulink/include/rtw_continuous.h \
+ D:/Datos/Descargas/Dropbox/Dropbox/euriguen/pwmsfuncfilter2/pwmsfunc_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2018a/simulink/include/rtw_continuous.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/shared/svd/include/MW_PWM.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/shared/svd/include/MW_SVD.h \
+ pwmsfunc_types.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/shared/svd/include/MW_SVD.h \
+ MW_target_hardware_resources.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/supportpackages/arduinotarget/include/MW_ArduinoHWInit.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/supportpackages/arduinotarget/scheduler/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2018a/3P.instrset/arduinoide.instrset/arduino-1.8.1/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2018a/3P.instrset/arduinoide.instrset/arduino-1.8.1/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2018a/3P.instrset/arduinoide.instrset/arduino-1.8.1/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ pwmsfunc_private.h
+
+pwmsfunc.h:
+
+rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018a/simulink/include/rtw_continuous.h:
+
+D:/Datos/Descargas/Dropbox/Dropbox/euriguen/pwmsfuncfilter2/pwmsfunc_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2018a/simulink/include/rtw_continuous.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/shared/svd/include/MW_PWM.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/shared/svd/include/MW_SVD.h:
+
+pwmsfunc_types.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/shared/svd/include/MW_SVD.h:
+
+MW_target_hardware_resources.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/supportpackages/arduinotarget/include/MW_ArduinoHWInit.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2018a/toolbox/target/supportpackages/arduinotarget/scheduler/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2018a/3P.instrset/arduinoide.instrset/arduino-1.8.1/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2018a/3P.instrset/arduinoide.instrset/arduino-1.8.1/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2018a/3P.instrset/arduinoide.instrset/arduino-1.8.1/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+pwmsfunc_private.h:
