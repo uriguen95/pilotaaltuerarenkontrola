@@ -1,9 +1,0 @@
-
-avrdude: AVR device initialized and ready to accept instructions
-avrdude: Device signature = 0x1e9801 (probably m2560)
-avrdude: reading input file "../pwmsfunc.hex"
-avrdude: writing flash (24564 bytes):
-avrdude: 24564 bytes of flash written
-
-avrdude done.  Thank you.
-
